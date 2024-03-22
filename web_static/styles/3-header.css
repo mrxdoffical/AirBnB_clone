@@ -1,0 +1,16 @@
+header{
+	background-color: #fff;
+	height: 70px;
+	width: 100%;
+	border-bottom: 1px solid #cccccc;
+	align-items: center;
+	
+}
+
+header a{
+    background-image: url("../images/logo.png");
+	background-repeat: no-repeat;
+	display: block;
+	height: 200px;
+	height: 70px;
+}
